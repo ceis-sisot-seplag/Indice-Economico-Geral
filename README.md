@@ -1,0 +1,1 @@
+##### Repositório dedicado ao armazenamento de todos os scripts utilizados no cálculo, análise e visualização do Índice Econômico Geral (IEG). Aqui são centralizados os códigos responsáveis pela coleta de dados, processamento, geração de indicadores e produção de relatórios e gráficos, garantindo organização, rastreabilidade e eficiência nos processos.
